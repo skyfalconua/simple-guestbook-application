@@ -1,0 +1,8 @@
+{
+  "migrator": {
+    "dirsFilesInclude": [
+      "projects/tickets",
+      "helpers/header.phtml"
+    ]
+  }
+}

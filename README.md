@@ -3,6 +3,8 @@ A guestbook application where visitors can leave messages
 
 **Topics**: PHP, MySQL, AJAX, CSS, Guestbook, Web Development
 
+Test repo forked from https://github.com/mah-shamim/simple-guestbook-application
+
 ### Installation Process
 
 1. **Clone the Repository**:
